@@ -7,12 +7,10 @@ namespace DataTest
     public class BallTests
     {
         [TestMethod]
-        public void Ball_ShouldInitializeWithDefaultDiameter()
+        public void TestSize()
         {
-            // Arrange & Act
             var ball = new Ball();
 
-            // Assert
             Assert.AreEqual(20, ball.Diameter);
         }
     }

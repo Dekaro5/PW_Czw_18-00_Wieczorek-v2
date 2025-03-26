@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BallService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bd6477a0a6174249a298e822b6bad52574ee393")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+848637b6c3ecc29ce263e08d45b6e018c9c478c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BallService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BallService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
