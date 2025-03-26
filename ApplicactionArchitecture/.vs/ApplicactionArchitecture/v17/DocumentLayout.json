@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9442CC-75CE-4764-AA72-D9B2B284C165}|BallService\\BallService.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\ballservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9442CC-75CE-4764-AA72-D9B2B284C165}|BallService\\BallService.csproj|solutionrelative:ballservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9442CC-75CE-4764-AA72-D9B2B284C165}|BallService\\BallService.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\ballservice\\ballservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C9442CC-75CE-4764-AA72-D9B2B284C165}|BallService\\BallService.csproj|solutionrelative:ballservice\\ballservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB00B2E-C2EA-4336-8AFD-449BCDD3F7B0}|BallTest\\BallTest.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\balltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB00B2E-C2EA-4336-8AFD-449BCDD3F7B0}|BallTest\\BallTest.csproj|solutionrelative:balltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40894632-880D-4335-8D58-77FBEFA50164}|Ball\\Ball.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\ball\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40894632-880D-4335-8D58-77FBEFA50164}|Ball\\Ball.csproj|solutionrelative:ball\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AACD49D-FE2C-4C8C-886F-C54DDCE43B05}|LogicTest\\LogicTest.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\logictest\\logictest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AACD49D-FE2C-4C8C-886F-C54DDCE43B05}|LogicTest\\LogicTest.csproj|solutionrelative:logictest\\logictest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB00B2E-C2EA-4336-8AFD-449BCDD3F7B0}|BallTest\\BallTest.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\balltest\\balltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DB00B2E-C2EA-4336-8AFD-449BCDD3F7B0}|BallTest\\BallTest.csproj|solutionrelative:balltest\\balltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40894632-880D-4335-8D58-77FBEFA50164}|Ball\\Ball.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\ball\\ball.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40894632-880D-4335-8D58-77FBEFA50164}|Ball\\Ball.csproj|solutionrelative:ball\\ball.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AACD49D-FE2C-4C8C-886F-C54DDCE43B05}|LogicTest\\LogicTest.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\logictest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AACD49D-FE2C-4C8C-886F-C54DDCE43B05}|LogicTest\\LogicTest.csproj|solutionrelative:logictest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\table\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|solutionrelative:table\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\table\\table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|solutionrelative:table\\table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\table\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|solutionrelative:table\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\table\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|solutionrelative:table\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\table\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|solutionrelative:table\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|c:\\users\\arek\\source\\repos\\dekaro5\\pw_czw_18-00_wieczorek-v2\\applicactionarchitecture\\table\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A88C62-A968-47CE-B420-9B9742D94916}|Table\\Table.csproj|solutionrelative:table\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallTest\\Program.cs",
+              "RelativeDocumentMoniker": "BallTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallTest\\Program.cs",
+              "RelativeToolTip": "BallTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:13:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogicTest",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\LogicTest\\LogicTest.csproj",
+              "RelativeDocumentMoniker": "LogicTest\\LogicTest.csproj",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\LogicTest\\LogicTest.csproj",
+              "RelativeToolTip": "LogicTest\\LogicTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T13:06:55.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BallTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallTest\\BallTest.csproj",
+              "RelativeDocumentMoniker": "BallTest\\BallTest.csproj",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallTest\\BallTest.csproj",
+              "RelativeToolTip": "BallTest\\BallTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T12:17:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallService\\Program.cs",
+              "RelativeDocumentMoniker": "BallService\\Program.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallService\\Program.cs",
+              "RelativeToolTip": "BallService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:20:21.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Ball\\Program.cs",
+              "RelativeDocumentMoniker": "Ball\\Program.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Ball\\Program.cs",
+              "RelativeToolTip": "Ball\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:17:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Table\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\AssemblyInfo.cs",
+              "RelativeToolTip": "Table\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:25:12.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\App.xaml",
+              "RelativeDocumentMoniker": "Table\\App.xaml",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\App.xaml",
+              "RelativeToolTip": "Table\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T12:25:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ball.csproj",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Ball\\Ball.csproj",
+              "RelativeDocumentMoniker": "Ball\\Ball.csproj",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Ball\\Ball.csproj",
+              "RelativeToolTip": "Ball\\Ball.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T12:17:54.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallService.csproj",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallService\\BallService.csproj",
+              "RelativeDocumentMoniker": "BallService\\BallService.csproj",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\BallService\\BallService.csproj",
+              "RelativeToolTip": "BallService\\BallService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T12:43:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\LogicTest\\Program.cs",
+              "RelativeDocumentMoniker": "LogicTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\LogicTest\\Program.cs",
+              "RelativeToolTip": "LogicTest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:07:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Table\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Table\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:25:05.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.csproj",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\Table.csproj",
+              "RelativeDocumentMoniker": "Table\\Table.csproj",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\Table.csproj",
+              "RelativeToolTip": "Table\\Table.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T12:38:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Table\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\App.xaml.cs",
+              "RelativeToolTip": "Table\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:38:55.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Table\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Arek\\source\\repos\\Dekaro5\\PW_Czw_18-00_Wieczorek-v2\\ApplicactionArchitecture\\Table\\MainWindow.xaml",
+              "RelativeToolTip": "Table\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T12:25:05.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

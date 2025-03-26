@@ -1,0 +1,14 @@
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.csproj.AssemblyReference.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table_Content.g.cs
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table_MarkupCompile.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.g.resources
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.gentestingplatformentrypointinputcache.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.genautoregisteredextensionsinputcache.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.AssemblyInfoInputs.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.AssemblyInfo.cs
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.csproj.CoreCompileInputs.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\Table\obj\Debug\net8.0-windows\Table.sourcelink.json

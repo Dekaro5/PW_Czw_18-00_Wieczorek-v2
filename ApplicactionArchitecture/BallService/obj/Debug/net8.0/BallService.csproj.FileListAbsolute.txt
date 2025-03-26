@@ -1,0 +1,8 @@
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.csproj.AssemblyReference.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.gentestingplatformentrypointinputcache.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.genautoregisteredextensionsinputcache.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.AssemblyInfoInputs.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.AssemblyInfo.cs
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.csproj.CoreCompileInputs.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\BallService\obj\Debug\net8.0\BallService.sourcelink.json

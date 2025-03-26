@@ -1,0 +1,8 @@
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.csproj.AssemblyReference.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.gentestingplatformentrypointinputcache.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.genautoregisteredextensionsinputcache.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.AssemblyInfoInputs.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.AssemblyInfo.cs
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.csproj.CoreCompileInputs.cache
+C:\Users\Arek\source\repos\Dekaro5\PW_Czw_18-00_Wieczorek-v2\ApplicactionArchitecture\LogicTest\obj\Debug\net8.0\LogicTest.sourcelink.json
