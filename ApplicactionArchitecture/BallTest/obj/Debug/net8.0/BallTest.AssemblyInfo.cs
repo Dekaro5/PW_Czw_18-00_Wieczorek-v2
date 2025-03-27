@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BallTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bd6477a0a6174249a298e822b6bad52574ee393")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c445007a09b9352edb436185ad964888969a5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BallTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BallTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
